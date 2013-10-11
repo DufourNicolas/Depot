@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Ma première page internet</title>
+</head>
+<body>
+</body>
+</html>
